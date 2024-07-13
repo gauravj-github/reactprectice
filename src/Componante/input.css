@@ -1,0 +1,11 @@
+
+.input{
+    margin-top:20px ;
+    overflow:none;
+}
+.input input{
+    width: 480px; 
+    padding:22px ;
+    border-radius: 14px;  
+    outline: none; 
+}
